@@ -11,9 +11,7 @@ QueryFlow is a web-based application that allows users to upload files (CSV or i
 - **Table Management**: View, create, and drop tables in the database.
 - **Dark Mode**: Toggle between light and dark themes for better usability.
 
-sql-playground-backend/ ├── app.js # Main backend application ├── controllers/ # Controllers for handling requests ├── models/ # Database models ├── routes/ # API routes ├── uploads/ # Directory for uploaded files └── .env # Environment variables
 
-sql-playground-frontend/ ├── src/ # React source files ├── public/ # Static assets ├── index.html # Main HTML file └── vite.config.js # Vite configuration
 
 
 ## Technologies Used
