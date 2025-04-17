@@ -53,7 +53,7 @@ JWT_SECRET=<your_jwt_secret>
 
 3.Start the backend server:
    ```bash
-   npm start
+   npm app.js
 ```
 ### Frontend Setup
 1.Navigate to the frontend directory:
