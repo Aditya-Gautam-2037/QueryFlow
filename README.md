@@ -71,7 +71,7 @@ npm install
 npm run dev
 ```
 # Usage
-1.Open the frontend in your browser at http://localhost:3000.
+1.Open the frontend in your browser at link provided by npm.
 
 2.Register or log in to access the dashboard.
 
