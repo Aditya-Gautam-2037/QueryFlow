@@ -70,7 +70,7 @@ npm install
 ```bash
 npm run dev
 ```
-#Usage
+# Usage
 1.Open the frontend in your browser at http://localhost:3000.
 2.Register or log in to access the dashboard.
 3.Upload a CSV or image file to generate SQL scripts.
