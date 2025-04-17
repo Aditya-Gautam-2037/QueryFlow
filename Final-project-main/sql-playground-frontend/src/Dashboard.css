@@ -1,0 +1,32 @@
+#query-message {
+  transition: opacity 1s ease-in-out;
+}
+
+#query-message.fade-out {
+  opacity: 0;
+}
+
+
+.login-background {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/LOGO.png'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: blur(0.1px); /* Adds a blur effect to the background */
+}
+.login-containerR {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/LOGOR.png'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.9; 
+
+}
