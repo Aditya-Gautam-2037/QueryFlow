@@ -57,7 +57,7 @@ JWT_SECRET=<your_jwt_secret>
    ```bash
    npm start
 ```
-###Frontend Setup
+### Frontend Setup
 1.Navigate to the frontend directory:
 ```bash
 cd sql-playground-frontend
